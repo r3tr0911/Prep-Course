@@ -1,0 +1,24 @@
+variables: es una forma de almcenar un valor    
+    var nombre = "kevin"                                
+
+string: es un bloque de texto
+    "23"
+    "kevin"
+    "hola buenos dias"
+
+funciones: es una forma de dar una orden al interprete 
+    function suma (a,b) {
+        console.log(a + b);
+    }
+
+declaraciones: declarar if es hablar de una condicion
+fuction suma (a,b) {
+    if (2 === 2  = identicos)
+}
+
+valores booleanos: es todo que nos da un resultado de "true" o "false"
+    function suma() {
+        if (2 < 1 = "false")
+        if else( 2 > 1 = "true")
+    }
+    
